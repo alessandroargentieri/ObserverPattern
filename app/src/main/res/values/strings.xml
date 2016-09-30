@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ObserverPattern</string>
+    <string name="explaination">Observer Pattern: write a word and submit the change. If you\'ve created and attached some Observer elements, they keep track of every change of Observable class.</string>
+</resources>
