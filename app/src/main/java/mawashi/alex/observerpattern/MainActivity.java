@@ -10,7 +10,6 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    ArrayList<ObserverClass> listaOsservatori;
     ObservableClass osservato;
 
     @Override
